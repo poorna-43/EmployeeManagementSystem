@@ -8,8 +8,8 @@ public class DBUtil {
     private static final String URL =
             "jdbc:mysql://localhost:3306/employee_db";
 
-    private static final String USER = "root";
-    private static final String PASSWORD = "ammr@2026";
+    private static final String USER = "YOUR_USERNAME";
+    private static final String PASSWORD = "YOUR_PASSWORD";
 
     static {
 
